@@ -13,3 +13,6 @@ li:hover {
 .bg-color {
     background-color: #0888FF !important;
 }
+body {
+    background: rgb(247, 180, 180) !important;
+}
