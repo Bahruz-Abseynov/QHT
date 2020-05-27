@@ -1,0 +1,18 @@
+a {
+    text-transform: capitalize !important;
+    font-size: 15px !important;
+    color: white !important;
+    
+  
+}
+li:hover {
+    text-decoration: underline !important;
+
+    
+}
+.bg-color {
+    background-color: #0888FF !important;
+}
+body {
+    background: rgb(236, 132, 132) !important;
+}
