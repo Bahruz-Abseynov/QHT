@@ -8,4 +8,9 @@
 body {
   background-color: cadetblue;
 }
+
+body header .navbar {
+  background-color: blue !important;
+  color: #ffffff;
+}
 /*# sourceMappingURL=style.css.map */
