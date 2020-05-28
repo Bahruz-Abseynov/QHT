@@ -9,8 +9,16 @@ body {
   background-color: cadetblue;
 }
 
+body header {
+  position: relative;
+}
+
 body header .navbar {
   background-color: blue !important;
   color: #ffffff;
+}
+
+body main {
+  padding: 5rem 0rem;
 }
 /*# sourceMappingURL=style.css.map */

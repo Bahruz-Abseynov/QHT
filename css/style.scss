@@ -8,11 +8,14 @@
     background-color: cadetblue;
 
     header{
-        
+        position: relative;
         .navbar{
             background-color: blue !important;
             color: #ffffff;
         }
+    }
+    main{
+        padding: 5rem 0rem;
     }
   }
   
