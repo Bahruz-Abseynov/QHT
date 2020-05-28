@@ -3,7 +3,14 @@
     padding: 0;
     box-sizing: border-box;
   }
-  
+
+  .site-container{
+    width: 85%;
+    margin: auto;
+    margin: 1rem  auto;
+    padding: 1rem 0rem;
+}
+
   body {
     background-color: cadetblue;
 
@@ -16,6 +23,7 @@
     }
     main{
         padding: 5rem 0rem;
+       
     }
   }
   
