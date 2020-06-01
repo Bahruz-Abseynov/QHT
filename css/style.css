@@ -28,4 +28,7 @@ body header .navbar {
 body main {
   padding: 5rem 0rem;
 }
+.btn-personal {
+  background:#55A9EE !important;
+}
 /*# sourceMappingURL=style.css.map */
