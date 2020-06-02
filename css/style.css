@@ -13,7 +13,7 @@
 }
 
 body {
-  background-color: cadetblue;
+  background-color: rgb(221, 236, 236);
 }
 
 body header {
@@ -31,4 +31,52 @@ body main {
 .btn-personal {
   background:#55A9EE !important;
 }
-/*# sourceMappingURL=style.css.map */
+.secondcontainer {
+  background: red;
+}
+.grid {
+  display: grid;
+grid-template-columns: 1320px 70px 70px 70px 70px 70px;
+margin: 0px 100px;
+ 
+}
+
+*, *:after, *:before {
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+}
+* {margin:0;padding:0;border:0 none;position: relative; outline: none;
+}
+
+h3 {
+  width: 100%;
+  min-height: 0px;
+  line-height: px;
+  color: rgba(0,0,0,.4);
+  text-transform: uppercase;
+}
+h3  {
+  display: inline;
+  text-decoration: none;
+  color: rgba(0,0,0,.4);
+  z-index: 1;
+}
+h3:before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 3px;
+  bottom: 0;
+  left: 0;
+  background: rgb(104, 109, 105);
+  visibility: hidden;
+  border-radius: 5px;
+  transform: scaleX(0);
+  transition: .25s linear;
+}
+h3:hover:before,
+h3:focus:before {
+  visibility: visible;
+  transform: scaleX(1);
+}
+
