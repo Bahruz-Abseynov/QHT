@@ -89,3 +89,11 @@ h3:focus:before {
 figcaption {
   font-weight: bold;
 }
+.img-fluid {
+  width: 550px;
+  height: 220px;
+}
+.img-nazkab , .img-qatar {
+  width: 550px;
+  height: 320px;
+}
