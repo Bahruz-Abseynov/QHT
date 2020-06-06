@@ -34,12 +34,7 @@ body main {
 .secondcontainer {
   background: red;
 }
-.grid {
-  display: grid;
-grid-template-columns: 1320px 70px 70px 70px 70px 70px;
-margin: 0px 100px;
- 
-}
+
 
 *, *:after, *:before {
   box-sizing: border-box;
@@ -80,3 +75,17 @@ h3:focus:before {
   transform: scaleX(1);
 }
 
+.nav ul li {
+  display: inline-block;
+  margin: 5px;
+
+}
+.secondheader {
+  margin-right: 1160px;
+}
+.nav {
+  margin-top: 10px;
+}
+figcaption {
+  font-weight: bold;
+}
