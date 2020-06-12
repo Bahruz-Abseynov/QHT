@@ -97,3 +97,10 @@ figcaption {
   width: 550px;
   height: 320px;
 }
+@media (max-width:962px){
+  .img-nazkab , .img-qatar {
+    width: 700px;
+    
+  }
+
+}
