@@ -1,0 +1,1 @@
+1.use only english for anything. its gonna be variables or comments make no difference.
