@@ -43,12 +43,15 @@ body main {
 * {margin:0;padding:0;border:0 none;position: relative; outline: none;
 }
 
+
+
 h3 {
   width: 100%;
   min-height: 0px;
   line-height: px;
   color: rgba(0,0,0,.4);
   text-transform: uppercase;
+ 
 }
 h3  {
   display: inline;
@@ -81,9 +84,7 @@ h3:focus:before {
   
 
 }
-.secondheader {
-  margin-right: 1160px;
-}
+
 .nav {
   margin-top: 10px;
   
@@ -126,10 +127,13 @@ figcaption {
 
 
 /* En chox oxunanlar */
+.enchox {
+  margin-top: 0;
+}
 
 .normal {
   
-  margin-top: 2rem;
+  margin-top: 8rem;
   height: 200px;
  
 }
@@ -144,4 +148,24 @@ figcaption {
 }
 .hover:hover {
   background:rgb(240, 230, 230) !important;
+}
+
+
+/*en chox oxunanlar image*/
+.artimg {
+  margin-top: 12rem;
+  height: 485px !important;
+ 
+}
+/*Asan right image*/
+.artimg2 {
+  margin-top: 8rem;
+  height: 800px;
+ 
+}
+
+/*Asan buttons*/
+.box-16 , .box-17 , .box-18 > .btn {
+  width: 120px;
+  padding: 10px;
 }
