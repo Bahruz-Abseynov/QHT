@@ -153,18 +153,13 @@ figcaption {
 
 /*en chox oxunanlar image*/
 .artimg {
-  margin-top: 12rem;
+ 
   height: 485px !important;
  
 }
-/*Asan right image*/
-.artimg2 {
-  margin-top: 8rem;
-  height: 800px;
- 
-}
 
-/*Asan buttons*/
+
+Asan buttons
 .box-16 , .box-17 , .box-18 > .btn {
   width: 120px;
   padding: 10px;
