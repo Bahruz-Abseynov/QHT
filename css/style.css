@@ -164,3 +164,16 @@ Asan buttons
   width: 120px;
   padding: 10px;
 }
+
+/*footer*/
+.partners-section {
+
+  display: flex;
+    height: 200px;
+}
+.partners-section > a  .img-fluid {
+  width: 100%;
+  padding: 20px;
+  height: auto;
+  
+}
