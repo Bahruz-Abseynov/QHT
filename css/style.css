@@ -177,3 +177,14 @@ Asan buttons
   height: auto;
   
 }
+.box-shadow {
+  box-shadow: 0 -10px 20px 0 rgba(0,0,0,0.2);
+  
+}
+/*images box-shadow hover*/
+.hover:hover {
+  
+  box-shadow: 0 0 15px 7px rgba(34, 60, 80, 0.2);
+  transition: box-shadow 0.5s, transform -0.1s;
+  transition-delay: 0.1s;
+}
