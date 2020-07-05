@@ -193,3 +193,13 @@ Asan buttons
 .text-light:hover {
   background:grey;
 }
+/*footer columns responsivlety*/
+@media only screen and (max-width: 968px) {
+  
+.footercol {
+  font-family:sans-serif;
+  background: blueviolet;
+}
+  
+
+}
